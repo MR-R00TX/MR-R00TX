@@ -5,7 +5,7 @@
 <p align="center">
   <i>"Both systems and women share one flawless protocol: Never trust implicitly. Always verify explicitly. Breaking codes and boundaries."</i><br><br>
   
-  <a href="https://tryhackme.com/p/MR.R00T"><img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/p/MR.R00TX"><img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="https://profile.hackthebox.com/profile/019dcb1e-9c50-7339-b4f8-f59658430a3e?utm_medium=copy_url"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"></a>
   <a href="https://github.com/MR-R00TX"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/md-munnah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
