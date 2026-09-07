@@ -4,7 +4,7 @@
 
 <p align="center">
   <i>"Both systems and women share one flawless protocol: Never trust implicitly. Always verify explicitly. Breaking codes and boundaries."</i><br><br>
-  <a href="https://tryhackme.com/p/MR.R00T"><img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/p/MR.R00TX"><img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="https://github.com/MR-R00TX"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
