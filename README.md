@@ -65,7 +65,7 @@ I'm a passionate **Offensive Security Specialist** focused on Web Application Pe
 |:---|:---:|:---|
 | **HTB Cyber Apocalypse CTF '26** | 🥇 **35th Global** | 69,425 pts — 136/136 challenges solved (Team Mutex19) |
 | **HTB Global Benchmark '26** | 🏅 **148th Global** | 52,325 pts — 95/126 challenges solved |
-| **TryHackMe** | 🔥 **Top 1%** (Rank 24,578) | 199 Rooms · 17 Badges · **LEGEND** Tier |
+| **TryHackMe** | 🔥 **Top 1%** (Rank 23864) | 202 Rooms · 17 Badges · **LEGEND** Tier |
 | **HackTheBox** | ⚡ **Skilled** (Level 35) | Active 9-week streak |
 | **PortSwigger Web Academy** | 🔬 **45% Complete** | 76 Practitioner + 4 Expert labs |
 
