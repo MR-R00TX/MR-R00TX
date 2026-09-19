@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F11&height=200&section=header&text=MR.R00TX&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Specialist%20%7C%20Red%20Team%20%7C%20Bug%20Bounty&descAlignY=60&descColor=00FF41" />
@@ -166,12 +165,18 @@ drwxr-xr-x  privilege_escalation/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MR-R00TX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=00FF41" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-R00TX&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41" height="165" />
+<a href="https://github.com/MR-R00TX">
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-R00TX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=00FF41&count_private=true&include_all_commits=true" height="165" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=MR-R00TX&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" height="165" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-R00TX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" />
+<a href="https://github.com/MR-R00TX">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-R00TX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&langs_count=8" />
+</a>
 
 </div>
 
@@ -181,7 +186,9 @@ drwxr-xr-x  privilege_escalation/
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MR-R00TX&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/MR-R00TX)
+<a href="https://github.com/MR-R00TX">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MR-R00TX&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true&custom_title=MR.R00TX%20Contribution%20Graph" width="100%" />
+</a>
 
 </div>
 
