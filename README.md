@@ -226,5 +226,5 @@ root@MR-R00TX:~# ./attack_chain.sh --verbose
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MR-R00TX&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=MR-R00TX&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
