@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F11&height=200&section=header&text=MR.R00TX&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Specialist%20%7C%20Red%20Team%20%7C%20Bug%20Bounty&descAlignY=60&descColor=00FF41" />
+<img src="https://raw.githubusercontent.com/MR-R00TX/MR-R00TX/main/.github/workflows/banner-animated.gif" alt="MR.R00TX - Offensive Security Specialist | Red Team | Bug Bounty" width="100%" />
 
 </div>
 
