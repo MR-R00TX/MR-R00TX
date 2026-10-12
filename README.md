@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Offensive+Security+Specialist;Red+Team+%7C+Bug+Bounty+%7C+CTF+Player;Web+App+Pentester+%7C+Exploit+Developer;Breaking+systems+so+defenders+can+fix+them.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Offensive+Security+Specialist;Red+Team+%7C+Bug+Bounty+%7C+CTF+Player;Web+App+Pentester+%7C+Exploit+Developer;Breaking+systems+so+defenders+can+fix+them.)](https://git.io/typing-svg)
 
 </div>
 
