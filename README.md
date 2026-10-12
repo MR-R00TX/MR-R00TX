@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MR-R00TX/MR-R00TX/main/.github/workflows/banner-animated.gif" alt="MR.R00TX - Offensive Security Specialist | Red Team | Bug Bounty" width="100%" />
+<img src="https://raw.githubusercontent.com/MR-R00TX/MR-R00TX/main/.github%20/%20workflows/banner-animated.gif" alt="MR.R00TX - Offensive Security Specialist | Red Team | Bug Bounty" width="100%" />
 
 </div>
 
