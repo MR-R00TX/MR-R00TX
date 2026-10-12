@@ -165,7 +165,6 @@ drwxr-xr-x  privilege_escalation/
 | **Cyber Security & Ethical Hacking Boot Camp** (15-day program) | Bangladesh Cyber Institute (BCI) | 2026 |
 | **Wiz Bug Bounty Masterclass** | Wiz | 13 Feb 2026 (valid until 13 Feb 2028) |
 | **Webinar on CEH (Certified Ethical Hacker)** | Cyberlog Limited | N/A |
-
 ## `neofetch --stats`
 
 <div align="center">
