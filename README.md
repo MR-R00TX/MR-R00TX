@@ -226,9 +226,9 @@ root@MR-R00TX:~# ./attack_chain.sh --verbose
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer&text=Stay%20Curious.%20Keep%20Hacking.&fontSize=30&fontColor=00FF41&fontAlignY=75" width="100%" alt="Stay Curious. Keep Hacking." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer&text=Stay%20Curious.%20Keep%20Hacking.&fontSize=30&fontColor=ff0000&fontAlignY=75" width="100%" alt="Stay Curious. Keep Hacking." />
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=MR-R00TX&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MR-R00TX&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
