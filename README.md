@@ -230,5 +230,5 @@ root@MR-R00TX:~# ./attack_chain.sh --verbose
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=MR-R00TX&color=E10600&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMR-R00TX&count_bg=%23E10600&title_bg=%230d1117&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views" />
 </div>
