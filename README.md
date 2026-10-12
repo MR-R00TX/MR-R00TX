@@ -189,7 +189,7 @@ drwxr-xr-x  privilege_escalation/
 
 ## `watch -n 1 cat activity_feed.log`
 
-## `watch -n 1 cat activity_feed.log`
+
 
 <div align="center">
 
