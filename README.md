@@ -190,7 +190,7 @@ drwxr-xr-x  privilege_escalation/
 ## `watch -n 1 cat activity_feed.log`
 
 <div align="center">
-  [![MR.R00TX Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MR-R00TX&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true&custom_title=MR.R00TX%20Contribution%20Graph)](https://github.com/MR-R00TX)
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-R00TX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="80%" />
 </div>
 
 ---
