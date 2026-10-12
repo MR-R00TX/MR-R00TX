@@ -154,10 +154,11 @@ drwxr-xr-x  privilege_escalation/
 ## `cat certifications.txt`
 
 | Certification / Program | Issuer | Date |
-|---|---|---|
+| :--- | :--- | :--- |
 | **Arena Web Certified Professional (AWCP)**: Cyber Security & Ethical Hacking | Arena Web Security | 2 Oct 2026 |
 | **Basics of Python** | UniAthena, with Cambridge International Qualifications (UK) | 3 Oct 2026 |
 | **Corporate Internship Completion** (60 hours) | Arena Web Security | 2 Oct 2026 |
+| **CWL Certified AI Security Fundamentals** | CyberWarfare Labs | 12 Oct 2026 |
 | **Certified Cyber Security Analyst (C3SA)** | CyberWarFare Labs | 11 Oct 2026 |
 | **Hacker Holidays: Byte Lotus Summer Breach Engagement** | TryHackMe | 11 Aug 2026 |
 | **Cyber Apocalypse CTF 2026: The Salt Crown** (Certified CTF Player) | Hack The Box | 24 – 29 Jul 2026 |
