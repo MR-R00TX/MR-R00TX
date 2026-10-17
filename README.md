@@ -156,6 +156,7 @@ drwxr-xr-x  privilege_escalation/
 | Certification / Program | Issuer | Date |
 | :--- | :--- | :--- |
 | **Arena Web Certified Professional (AWCP)**: Cyber Security & Ethical Hacking | Arena Web Security | 2 Oct 2026 |
+| **Ethical Hacker** | Cisco Networking Academy | 16 Oct 2026 |
 | **Basics of Python** | UniAthena, with Cambridge International Qualifications (UK) | 3 Oct 2026 |
 | **Corporate Internship Completion** (60 hours) | Arena Web Security | 2 Oct 2026 |
 | **CWL Certified AI Security Fundamentals** | CyberWarfare Labs | 12 Oct 2026 |
