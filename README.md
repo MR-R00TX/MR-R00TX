@@ -40,6 +40,9 @@ I'm a passionate **Offensive Security Specialist** focused on Web Application Pe
 - 🌱 **Currently Mastering:** Advanced Exploitation, Custom Tooling & Vulnerable Lab Research
 - 🐛 **Ask me about:** Recon, Bug Bounty Methodology, XSS, LFI, and OWASP Top 10
 - 📡 **Operating from:** Bangladesh
+- 🏢 **Co-Founder:** [Security Crown](https://seccrown.com) — Web Application Penetration Testing & WordPress Security
+- 🎓 **Education:** BBA, Pabna University of Science and Technology
+- 💼 **Open to:** Remote Junior Penetration Tester · Application Security · Security Analyst roles
 
 ---
 
@@ -52,6 +55,8 @@ I'm a passionate **Offensive Security Specialist** focused on Web Application Pe
 [![GitHub](https://img.shields.io/badge/GitHub-MR--R00TX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-R00TX)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--munnah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-munnah/)
 [![About.me](https://img.shields.io/badge/About.me-mdmunna-00A98F?style=for-the-badge&logo=about.me&logoColor=white)](https://about.me/mdmunna)
+[![Email](https://img.shields.io/badge/Email-munna%40seccrown.com-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munna@seccrown.com)
+[![Security Crown](https://img.shields.io/badge/Security%20Crown-seccrown.com-5C0000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://seccrown.com)
 
 </div>
 
@@ -63,9 +68,12 @@ I'm a passionate **Offensive Security Specialist** focused on Web Application Pe
 
 | 🏆 Engagement | 📊 Rank | 🎯 Achievement |
 |:---|:---:|:---|
+| **HI Cyber Con 2026 CTF** (Team SecCrown) | 🌍 **219th Global** of 1,119 | Agentic AI Division: 167th of 396 — 40/69 challenges solved, 2,291 pts |
+| **HTB Operation Cymbal: Cold Room 2026** | 🏅 **544th** of 1,716 teams | 18/18 challenges solved — 2,075 pts |
+| **HTB SecFest'26 CTF** | 🥇 **6th** of 139 teams | 26/26 challenges solved — 16,900 pts |
 | **HTB Cyber Apocalypse CTF '26** | 🥇 **35th Global** | 69,425 pts — 136/136 challenges solved (Team Mutex19) |
 | **HTB Global Benchmark '26** | 🏅 **148th Global** | 52,325 pts — 95/126 challenges solved |
-| **TryHackMe** | 🔥 **Top 1%** (Rank--14369) | 254 Rooms —25 Badges · **LEGEND** Tier |
+| **TryHackMe** | 🔥 **Top 1%** (Rank 14369) | 254 Rooms · 25 Badges · **LEGEND** Tier |
 | **HackTheBox** | ⚡ **Skilled** (Level 47) | Active 18-week streak |
 | **PortSwigger Web Academy** | 🔬 **45% Complete** | 76 Practitioner + 4 Expert labs |
 
@@ -153,27 +161,32 @@ drwxr-xr-x  privilege_escalation/
 
 ## `cat certifications.txt`
 
-| Certification / Program | Issuer | Date |
-| :--- | :--- | :--- |
-| Arena Web Certified Professional (AWCP): Cyber Security & Ethical Hacking | Arena Web Security | 2 Oct 2026 |
-| Ethical Hacker | Cisco Networking Academy | 16 Oct 2026 |
-| Basics of Python | UniAthena, with Cambridge International Qualifications (UK) | 3 Oct 2026 |
-| Corporate Internship Completion (60 hours) | Arena Web Security | 2 Oct 2026 |
-| CWL Certified AI Security Fundamentals | CyberWarfare Labs | 12 Oct 2026 |
-| Certified Cyber Security Analyst (C3SA) | CyberWarfare Labs | 11 Oct 2026 |
-| SecFest'26 Capture the Flag (Certified CTF Player) | Hack The Box | 28 – 30 Oct 2026 |
-| HI CYBER CON 2026 CTF (Global Rank 219th, Agentic AI Division) | Hidden Investigations | 30 Oct – 1 Nov 2026 |
-| Operation Cymbal: Cold Room 2026 CTF (Certified CTF Player) | Hack The Box | 29 Oct – 01 Nov 2026 |
-| Hacker Holidays: Byte Lotus Summer Breach Engagement | TryHackMe | 11 Aug 2026 |
-| Cyber Apocalypse CTF 2026: The Salt Crown (Certified CTF Player) | Hack The Box | 24 – 29 Jul 2026 |
-| Global Cyber Skills Benchmark 2026: Project Nightfall (Certified CTF Player) | Hack The Box | 15 – 20 May 2026 |
-| Downtime | TryHackMe | 30 Oct 2026 |
-| Advent of Cyber 2024 (Completed 24 cyber security challenges) | TryHackMe | 17 Oct 2026 |
-| Advent of Cyber 2023 | TryHackMe | 8 Nov 2026 |
-| Advent of Cyber 2022 (Basic cyber security knowledge and experience) | TryHackMe | 17 Oct 2026 |
-| Cyber Security & Ethical Hacking Boot Camp (15-day program) | Bangladesh Cyber Institute (BCI) | 2026 |
-| Wiz Bug Bounty Masterclass | Wiz | 13 Feb 2026 (valid until 13 Feb 2028) |
-| Webinar on CEH (Certified Ethical Hacker) | Cyberlog Limited | N/A |
+<div align="center">
+
+| Certification / Program | Issuer | Date | Certificate |
+|:---|:---|:---:|:---:|
+| **Arena Web Certified Professional (AWCP)**: Cyber Security & Ethical Hacking | Arena Web Security | 2 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/awcp-arena-web-security.pdf) |
+| **Ethical Hacker** | Cisco Networking Academy | 16 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cisco-ethical-hacker.pdf) |
+| **Basics of Python** | UniAthena, with Cambridge International Qualifications (UK) | 3 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/basics-of-python-uniathena.pdf) |
+| **Corporate Internship Completion** (60 hours) | Arena Web Security | 2 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/corporate-internship-arena-web-security.pdf) |
+| **CWL Certified AI Security Fundamentals** | CyberWarfare Labs | 12 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cwl-ai-security-fundamentals.pdf) |
+| **Certified Cyber Security Analyst (C3SA)** | CyberWarfare Labs | 11 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cwl-c3sa.pdf) |
+| **SecFest'26 Capture the Flag** (Certified CTF Player) | Hack The Box | 28 – 30 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/secfest-26-ctf.pdf) |
+| **HI CYBER CON 2026 CTF** (Global Rank 219th, Agentic AI Division) | Hidden Investigations | 30 Oct – 1 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/hi-cyber-con-2026-ctf.pdf) |
+| **Operation Cymbal: Cold Room 2026 CTF** (Certified CTF Player) | Hack The Box | 29 Oct – 01 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cold-room-ctf-2026.pdf) |
+| **Google Cloud Security Community CTF**: Continuing Education Completion (3 CPE hours) | Google Cloud | 29 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/google-cloud-security-community-ctf-cpe.png) |
+| **Hacker Holidays: Byte Lotus Summer Breach Engagement** | TryHackMe | 11 Aug 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-byte-lotus.pdf) |
+| **Cyber Apocalypse CTF 2026: The Salt Crown** (Certified CTF Player) | Hack The Box | 24 – 29 Jul 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cyber-apocalypse-ctf-2026.pdf) |
+| **Global Cyber Skills Benchmark 2026: Project Nightfall** (Certified CTF Player) | Hack The Box | 15 – 20 May 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/global-cyber-skills-benchmark-2026.pdf) |
+| **Downtime** | TryHackMe | 30 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-downtime.pdf) |
+| **Advent of Cyber 2024** (Completed 24 cyber security challenges) | TryHackMe | 17 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2024.pdf) |
+| **Advent of Cyber 2023** | TryHackMe | 8 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2023.pdf) |
+| **Advent of Cyber 2022** (Basic cyber security knowledge and experience) | TryHackMe | 17 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2022.pdf) |
+| **Cyber Security & Ethical Hacking Boot Camp** (15-day program) | Bangladesh Cyber Institute (BCI) | 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/bci-cyber-security-bootcamp.pdf) |
+| **Wiz Bug Bounty Masterclass** | Wiz | 13 Feb 2026 (valid until 13 Feb 2028) | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/wiz-bug-bounty-masterclass.pdf) |
+| **Webinar on CEH** (Certified Ethical Hacker) | Cyberlog Limited | N/A | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cyberlog-ceh-webinar.pdf) |
+
+</div>
 
 ## `neofetch --stats`
 
