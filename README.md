@@ -179,6 +179,8 @@ drwxr-xr-x  privilege_escalation/
 | **Cyber Apocalypse CTF 2026: The Salt Crown** (Certified CTF Player) | Hack The Box | 24 – 29 Jul 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cyber-apocalypse-ctf-2026.pdf) |
 | **Global Cyber Skills Benchmark 2026: Project Nightfall** (Certified CTF Player) | Hack The Box | 15 – 20 May 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/global-cyber-skills-benchmark-2026.pdf) |
 | **TCM x Kryptsec Black Friday CTF** (Certificate of Achievement, 3/3 Labs Completed: Prompt Injection, Memory Poisoning, Tool Abuse, Jailbreak Chaining) | Kryptsec, sponsored by TCM Security | 20 – 22 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](https://ctf.kryptsec.com/v/kx-cf4460d8-97e5-4d18-8f48-92cf260250eb) |
+| **MCTX's HTB Public Cybersecurity Challenge** (Certified CTF Player) | Hack The Box | 17 – 23 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/mctx-htb-public-cybersecurity-challenge.pdf) |
+| **HTB CTF: Test** (Certified CTF Player) | Hack The Box | 23 – 25 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/htb-ctf-test.pdf) |
 | **Downtime** | TryHackMe | 30 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-downtime.pdf) |
 | **Advent of Cyber 2024** (Completed 24 cyber security challenges) | TryHackMe | 17 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2024.pdf) |
 | **Advent of Cyber 2023** | TryHackMe | 8 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2023.pdf) |
@@ -188,7 +190,6 @@ drwxr-xr-x  privilege_escalation/
 | **Webinar on CEH** (Certified Ethical Hacker) | Cyberlog Limited | N/A | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cyberlog-ceh-webinar.pdf) |
 
 </div>
-
 
 ## `neofetch --stats`
 
