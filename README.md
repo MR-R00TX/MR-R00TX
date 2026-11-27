@@ -165,6 +165,7 @@ drwxr-xr-x  privilege_escalation/
 
 | Certification / Program | Issuer | Date | Certificate |
 |:---|:---|:---:|:---:|
+| **Certified Red Team Analyst (CRTA)** | CyberWarfare Labs | 26 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cwl-crta.pdf) |
 | **Arena Web Certified Professional (AWCP)**: Cyber Security & Ethical Hacking | Arena Web Security | 2 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/awcp-arena-web-security.pdf) |
 | **Ethical Hacker** | Cisco Networking Academy | 16 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cisco-ethical-hacker.pdf) |
 | **Basics of Python** | UniAthena, with Cambridge International Qualifications (UK) | 3 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/basics-of-python-uniathena.pdf) |
@@ -181,6 +182,7 @@ drwxr-xr-x  privilege_escalation/
 | **TCM x Kryptsec Black Friday CTF** (Certificate of Achievement, 3/3 Labs Completed: Prompt Injection, Memory Poisoning, Tool Abuse, Jailbreak Chaining) | Kryptsec, sponsored by TCM Security | 20 – 22 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](https://ctf.kryptsec.com/v/kx-cf4460d8-97e5-4d18-8f48-92cf260250eb) |
 | **MCTX's HTB Public Cybersecurity Challenge** (Certified CTF Player) | Hack The Box | 17 – 23 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/mctx-htb-public-cybersecurity-challenge.pdf) |
 | **HTB CTF: Test** (Certified CTF Player) | Hack The Box | 23 – 25 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/htb-ctf-test.pdf) |
+| **Advent of Cyber 2025** (Completed 24 cyber security challenges) | TryHackMe | 26 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2025.pdf) |
 | **Downtime** | TryHackMe | 30 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-downtime.pdf) |
 | **Advent of Cyber 2024** (Completed 24 cyber security challenges) | TryHackMe | 17 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2024.pdf) |
 | **Advent of Cyber 2023** | TryHackMe | 8 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2023.pdf) |
